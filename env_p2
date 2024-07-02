@@ -1,0 +1,5 @@
+conda create -n myenv_p2 python=3.11.4 jupyter numpy pandas matplotlib seaborn statsmodels scipy scikit-learn
+
+conda activate myenv_p2
+
+conda deactivate
